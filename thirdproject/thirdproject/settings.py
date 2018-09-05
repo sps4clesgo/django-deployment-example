@@ -28,7 +28,9 @@ SECRET_KEY = 'k1--uvpivtzb76=@4d-rpa_le9c*gm=ox1!qcg%cqf(*%on4av'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'sps4clesgo.pythonanywhere.com',
+]
 
 
 # Application definition
